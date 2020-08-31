@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+    font-family: 'Passero One', cursive;
+}
+.note{
+font-size:18px;
+color: blue;
+}
+.speedDiv{
+    float: left;
+    margin-left:20px;
+    
+}
+#speed, #volume{
+    font-size:20px;
+    margin: 15px;
+    
+}
+.volumeDiv{
+    float: right;
+    
+    margin-right:20px;
+}
+.playBtn{
+    font-size: 25px !important;
+    width: 130px;
+    
+}
+canvas{
+    border: 5px ridge whitesmoke;
+    border-radius: 20px;
+}
